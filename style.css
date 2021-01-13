@@ -70,6 +70,10 @@ header {
 .header-content {
     font-size: 2rem;
     font-family: 'Texturina', serif;
+    margin-bottom: 1rem;
+}
+
+.mb-5 {
     margin-bottom: 5rem;
 }
 
@@ -208,4 +212,15 @@ footer {
 
 hr {
     margin:2.5rem 0;
+}
+
+
+/*blogs onether pages*/
+
+.img-thumbnails {
+    max-width: 350px;
+    max-height: 350px;
+    box-shadow:0 0 5px 1px rgba(0,0,0,0.5);
+    margin:1rem 0;
+    border-radius: 10px;
 }
