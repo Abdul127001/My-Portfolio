@@ -169,3 +169,43 @@ footer {
 .fa-github-square {
     color: #171515;
 }
+
+/* project page */
+
+.my-3 {
+    margin: 3rem 0;
+}
+
+.pro-sec-header {
+    font-size: 1.5rem;
+    font-weight:bolder;
+}
+
+
+.pro-sec-content {
+    font-size: 1.3rem;
+    text-align: justify;
+}
+
+.btn-sm {
+    padding: 0.9rem;
+}
+
+.pro-nav {
+    list-style: none;
+}
+
+/*blogs page*/
+
+.link {
+    text-decoration: none;
+    color:var(--primary-color);
+}
+
+.link:hover {
+    color: var(--secondary-color);
+}
+
+hr {
+    margin:2.5rem 0;
+}
