@@ -14,6 +14,11 @@ body, ul {
     --secondary-color:#3B82F6;
 }
 
+.logo-link {
+    text-decoration: none;
+    color: var(--secondary-color);
+}
+
 nav {
     background-color: var(--primary-color);
     border-radius: 0 0 0 1rem;
